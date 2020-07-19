@@ -1,0 +1,6 @@
+## SPECS
+- CPU: Intel Core i5-8400
+- Mobo: Asus PRIME B360M-K
+- Ram: 16G DDR4 2666Mhz *2
+- SSD: WD SN700 1TB
+- GPU: AMD RX570 8GB
